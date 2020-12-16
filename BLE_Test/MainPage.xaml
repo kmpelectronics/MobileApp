@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BLE_Test.MainPage"
+             Title="STAK Test App"
+             BackgroundColor="LightGray"
+             >
+
+
+    <ContentPage.Content>
+        <StackLayout >
+            
+            
+            <Label x:Name="StatusLabel" BackgroundColor="Black" TextColor="Yellow" Text="Status"
+                     FontSize="22" HorizontalTextAlignment="Center"></Label>
+
+
+            <ActivityIndicator x:Name="ConnectActivity" Color="White" IsRunning="False" />
+            
+            <StackLayout Orientation="Vertical" HorizontalOptions="Center" Padding="50">
+                <Button x:Name="btnConnect" Text="Connect" BackgroundColor="White" Clicked="btnConnect_Clicked" CornerRadius="5" FontAttributes="Bold" FontSize="22" WidthRequest="300"/>
+                <Button x:Name="btnGreen"   Text="Green"   BackgroundColor="Green" Clicked="btnGreenClicked"    CornerRadius="5" FontAttributes="Bold" FontSize="22" WidthRequest="300"/>
+                <Button x:Name="btnRed"     Text="RED"     BackgroundColor="Red"   Clicked="btnRedClicked"      CornerRadius="5" FontAttributes="Bold" FontSize="22" WidthRequest="300"/>
+                <Button x:Name="btnOff"     Text="OFF"     BackgroundColor="Gray"  Clicked="btnOffClicked"      CornerRadius="5" FontAttributes="Bold" FontSize="22" WidthRequest="300"/>
+             </StackLayout>
+
+            
+            <!--<ListView x:Name="lv" ItemSelected="lv_ItemSelected" BackgroundColor="LightBlue" SeparatorColor="DarkBlue"  >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal">
+                                <Label Text="{Binding NativeDevice.Name}"/>
+                                <Label Text="{Binding NativeDevice.Address}"/>
+                                <Label Text="{Binding NativeDevice.base.Rssi}"/>
+                   
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>-->
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

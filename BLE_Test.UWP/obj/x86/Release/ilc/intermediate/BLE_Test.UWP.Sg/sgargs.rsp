@@ -1,0 +1,12 @@
+﻿/ref:"C:\Users\dimit\source\repos\BLE_Test\BLE_Test.UWP\obj\x86\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Users\dimit\.nuget\packages\runtime.win10-x86.microsoft.net.native.sharedlibrary\2.2.8-rel-29512-01\tools\SharedLibrary\ret\AnalysisILToc"
+/ref:"C:\Users\dimit\source\repos\BLE_Test\BLE_Test.UWP\obj\x86\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Users\dimit\source\repos\BLE_Test\BLE_Test.UWP\obj\x86\Release\ilc\in\\"
+/ref:"C:\Users\dimit\.nuget\packages\runtime.win10-x86.microsoft.net.native.compiler\2.2.9-rel-29512-01\tools\x86\ilc\lib\Private\\"
+/ref:"C:\Users\dimit\source\repos\BLE_Test\BLE_Test.UWP\obj\x86\Release\ilc\in"
+/ref:"C:\Users\dimit\source\repos\BLE_Test\BLE_Test.UWP\obj\x86\Release\ilc\in\WinMetadata"
+/ca:System.Private.CoreLib
+/cscpath:"C:\Users\dimit\.nuget\packages\microsoft.net.native.compiler\2.2.9-rel-29512-01\tools\csc"
+/out:"C:\Users\dimit\source\repos\BLE_Test\BLE_Test.UWP\obj\x86\Release\ilc\intermediate\SgGenerated\\"
+/int:"C:\Users\dimit\source\repos\BLE_Test\BLE_Test.UWP\obj\x86\Release\ilc\intermediate\BLE_Test.UWP.Sg"
+"@C:\Users\dimit\source\repos\BLE_Test\BLE_Test.UWP\obj\x86\Release\ilc\intermediate\BLE_Test.UWP.Sg\ComputedSerializationInput.txt"

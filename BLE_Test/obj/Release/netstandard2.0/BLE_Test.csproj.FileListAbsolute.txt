@@ -1,0 +1,14 @@
+C:\Users\dimit\source\repos\BLE_Test\BLE_Test\bin\Release\netstandard2.0\BLE_Test.deps.json
+C:\Users\dimit\source\repos\BLE_Test\BLE_Test\bin\Release\netstandard2.0\BLE_Test.dll
+C:\Users\dimit\source\repos\BLE_Test\BLE_Test\bin\Release\netstandard2.0\ref\BLE_Test.dll
+C:\Users\dimit\source\repos\BLE_Test\BLE_Test\bin\Release\netstandard2.0\BLE_Test.pdb
+C:\Users\dimit\source\repos\BLE_Test\BLE_Test\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\dimit\source\repos\BLE_Test\BLE_Test\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\dimit\source\repos\BLE_Test\BLE_Test\obj\Release\netstandard2.0\BLE_Test.AssemblyInfoInputs.cache
+C:\Users\dimit\source\repos\BLE_Test\BLE_Test\obj\Release\netstandard2.0\BLE_Test.AssemblyInfo.cs
+C:\Users\dimit\source\repos\BLE_Test\BLE_Test\obj\Release\netstandard2.0\BLE_Test.csproj.CoreCompileInputs.cache
+C:\Users\dimit\source\repos\BLE_Test\BLE_Test\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\dimit\source\repos\BLE_Test\BLE_Test\obj\Release\netstandard2.0\BLE_Test.dll
+C:\Users\dimit\source\repos\BLE_Test\BLE_Test\obj\Release\netstandard2.0\ref\BLE_Test.dll
+C:\Users\dimit\source\repos\BLE_Test\BLE_Test\obj\Release\netstandard2.0\BLE_Test.pdb
+C:\Users\dimit\source\repos\BLE_Test\BLE_Test\obj\Release\netstandard2.0\BLE_Test.csprojAssemblyReference.cache
